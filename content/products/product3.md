@@ -1,18 +1,15 @@
 ---
-title: Product 3
+title: BONJOUR2!!!!!
 categories:
 - fringues
 - test
 - abc
-
 images:
-- /assets/1_s.jpg
-- /assets/2_s.jpg
-- /assets/3_s.jpg
+- "/assets/logo.png"
+- "/assets/logo.jpg"
+- "/assets/3_s.jpg"
 
 ---
+# BONJOUR2!!!!!
 
-# Product 3
-
-Ceci n'est pas une chaussure
-
+dit is een goedemorgen
