@@ -1,11 +1,11 @@
 ---
 layout: home
-permalink: /
+permalink: "/"
 title: home
 
 ---
+# BONJOUR !!!!!!!!!!!
 
-# test 1
-___
+***
 
 this is a first test
